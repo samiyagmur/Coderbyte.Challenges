@@ -1,0 +1,14 @@
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Questions.Marks\bin\Debug\netcoreapp3.1\Questions.Marks.exe
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Questions.Marks\bin\Debug\netcoreapp3.1\Questions.Marks.deps.json
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Questions.Marks\bin\Debug\netcoreapp3.1\Questions.Marks.runtimeconfig.json
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Questions.Marks\bin\Debug\netcoreapp3.1\Questions.Marks.runtimeconfig.dev.json
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Questions.Marks\bin\Debug\netcoreapp3.1\Questions.Marks.dll
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Questions.Marks\bin\Debug\netcoreapp3.1\Questions.Marks.pdb
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Questions.Marks\obj\Debug\netcoreapp3.1\Questions.Marks.csproj.AssemblyReference.cache
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Questions.Marks\obj\Debug\netcoreapp3.1\Questions.Marks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Questions.Marks\obj\Debug\netcoreapp3.1\Questions.Marks.AssemblyInfoInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Questions.Marks\obj\Debug\netcoreapp3.1\Questions.Marks.AssemblyInfo.cs
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Questions.Marks\obj\Debug\netcoreapp3.1\Questions.Marks.csproj.CoreCompileInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Questions.Marks\obj\Debug\netcoreapp3.1\Questions.Marks.dll
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Questions.Marks\obj\Debug\netcoreapp3.1\Questions.Marks.pdb
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Questions.Marks\obj\Debug\netcoreapp3.1\Questions.Marks.genruntimeconfig.cache

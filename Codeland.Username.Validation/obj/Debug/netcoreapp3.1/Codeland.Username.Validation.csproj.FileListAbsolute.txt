@@ -1,0 +1,14 @@
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Codeland.Username.Validation\bin\Debug\netcoreapp3.1\Codeland.Username.Validation.exe
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Codeland.Username.Validation\bin\Debug\netcoreapp3.1\Codeland.Username.Validation.deps.json
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Codeland.Username.Validation\bin\Debug\netcoreapp3.1\Codeland.Username.Validation.runtimeconfig.json
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Codeland.Username.Validation\bin\Debug\netcoreapp3.1\Codeland.Username.Validation.runtimeconfig.dev.json
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Codeland.Username.Validation\bin\Debug\netcoreapp3.1\Codeland.Username.Validation.dll
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Codeland.Username.Validation\bin\Debug\netcoreapp3.1\Codeland.Username.Validation.pdb
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Codeland.Username.Validation\obj\Debug\netcoreapp3.1\Codeland.Username.Validation.csproj.AssemblyReference.cache
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Codeland.Username.Validation\obj\Debug\netcoreapp3.1\Codeland.Username.Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Codeland.Username.Validation\obj\Debug\netcoreapp3.1\Codeland.Username.Validation.AssemblyInfoInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Codeland.Username.Validation\obj\Debug\netcoreapp3.1\Codeland.Username.Validation.AssemblyInfo.cs
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Codeland.Username.Validation\obj\Debug\netcoreapp3.1\Codeland.Username.Validation.csproj.CoreCompileInputs.cache
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Codeland.Username.Validation\obj\Debug\netcoreapp3.1\Codeland.Username.Validation.dll
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Codeland.Username.Validation\obj\Debug\netcoreapp3.1\Codeland.Username.Validation.pdb
+C:\Users\samiy\OneDrive\Masaüstü\Codebyte.Challenges\Codeland.Username.Validation\obj\Debug\netcoreapp3.1\Codeland.Username.Validation.genruntimeconfig.cache
